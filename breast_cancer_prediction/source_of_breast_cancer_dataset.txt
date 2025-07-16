@@ -1,0 +1,3 @@
+import sklearn.datasets
+
+breast_cancer_dataset = sklearn.datasets.load_breast_cancer()
